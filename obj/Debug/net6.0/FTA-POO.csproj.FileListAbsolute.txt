@@ -3,3 +3,13 @@ E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.GeneratedMSBuildEditorConf
 E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.AssemblyInfoInputs.cache
 E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.AssemblyInfo.cs
 E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.csproj.CoreCompileInputs.cache
+E:\Documents\FTA\POO\FTA-POO\bin\Debug\net6.0\FTA-POO.exe
+E:\Documents\FTA\POO\FTA-POO\bin\Debug\net6.0\FTA-POO.deps.json
+E:\Documents\FTA\POO\FTA-POO\bin\Debug\net6.0\FTA-POO.runtimeconfig.json
+E:\Documents\FTA\POO\FTA-POO\bin\Debug\net6.0\FTA-POO.dll
+E:\Documents\FTA\POO\FTA-POO\bin\Debug\net6.0\FTA-POO.pdb
+E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.dll
+E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\refint\FTA-POO.dll
+E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.pdb
+E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\FTA-POO.genruntimeconfig.cache
+E:\Documents\FTA\POO\FTA-POO\obj\Debug\net6.0\ref\FTA-POO.dll

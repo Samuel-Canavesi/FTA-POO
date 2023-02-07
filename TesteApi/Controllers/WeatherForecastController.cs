@@ -28,5 +28,9 @@ public class WeatherForecastController : ControllerBase
             Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         })
         .ToArray();
-    }
+
 }
+    [HttpGet("OtherInfo")]
+    public string GetOtherInfo(string frase) => "Outras Informações" + frase;
+    }
+

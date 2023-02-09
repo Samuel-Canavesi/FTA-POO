@@ -10,7 +10,7 @@ namespace SushiStore.Models
         public string? Description {get; set;}
     }
 
-    public class SushiDb : DbContext
+    class SushiDb : DbContext
     {
         public SushiDb(DbContextOptions options) : base(options) { }
         public DbSet<Sushi> Sushis { get; set; } = null!;
